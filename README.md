@@ -12,6 +12,8 @@ You can contact me at:
 
 **gengyi.sun@uwaterloo.ca**
 
+I will reply within a few hours of receiving the email. 
+
 Please do not block my IP or the University of Waterloo’s network. I’m committed to collaborating respectfully with GitHub’s infrastructure and policies.
 
 Thank you for your incredible platform and for supporting research through access to open-source activity.
