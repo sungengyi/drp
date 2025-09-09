@@ -1,24 +1,17 @@
-# Friendly Notice: Crawling GitHub HTML for Academic Research
+# 
+## 
+Paper
 
-Hi GitHub Team,
+# DRP-Intelligent Automation for Accelerating the Repair of Software Build Failures
 
-I'm a graduate student conducting software engineering research involving GitHub repositories. As part of this work, I am crawling a limited set of GitHub Pull Request HTML pagesto collect publicly available data. I am doing so because the GitHub REST API does not include an endpoint for the "force-push" events. **I am doing this solely for research purposes, not for commercial use.**
+Here’s the meeting schedule and reading list. Please read the papers ahead of time and bring three questions to discuss. 
+## Schedule
 
-I’m doing my best to ensure that the crawling is respectful by limiting request frequency, identifying my scraper with a custom User-Agent, and backing off if any rate limits or blocks are encountered.
+### Sept 23 Thursday: Understanding Pull-based Development 
+* [How Developers Modify Pull Requests in Code Review](https://ieeexplore.ieee.org/document/9507319)
+* [An exploratory study of the pull-based software development model](https://dl.acm.org/doi/10.1145/2568225.2568260)
 
-If my traffic is unintentionally too frequent, please do not hesitate to reach out. I’m more than happy to adjust my crawler’s behavior immediately. 
+### Oct Thursday: Topic TBD
 
-You can contact me at:
-
-**gengyi.sun@uwaterloo.ca**
-
-I will reply within a few hours of receiving the email. 
-
-Please do not block my IP or the University of Waterloo’s network. I’m committed to collaborating respectfully with GitHub’s infrastructure and policies.
-
-Thank you for your incredible platform and for supporting research through access to open-source activity.
-
-Best regards,
-
-Gengyi Sun
-PhD Student, University of Waterloo
+ 
+  
