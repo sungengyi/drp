@@ -3,7 +3,7 @@
 Here’s the meeting schedule and reading list. Please read the papers ahead of time and bring three questions to discuss. 
 ## Schedule
 
-### Sept 25 Thursday: Understanding Pull-based Development 
+### Sept 11 Thursday: Understanding Pull-based Development 
 * How to read a paper?
 
 ### Sept 25 Thursday: Understanding Pull-based Development 
