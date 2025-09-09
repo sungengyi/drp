@@ -1,7 +1,3 @@
-# 
-## 
-Paper
-
 # DRP-Intelligent Automation for Accelerating the Repair of Software Build Failures
 
 Here’s the meeting schedule and reading list. Please read the papers ahead of time and bring three questions to discuss. 
